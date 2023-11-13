@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "574298739487",
+    "project_id": "ydkt-aab5c",
+    "storage_bucket": "ydkt-aab5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574298739487:android:2b77f8d177a1f7ac0e562a",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574298739487-ddf133q9447a5ppbeo7bkq98cslaim4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASE5FpgjtJEXMmqYu-9nH_TJdxu5yuxS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574298739487-ddf133q9447a5ppbeo7bkq98cslaim4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574298739487-t807s8tm543aaqr49katdmcq06ro5k4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ydktDatabase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
